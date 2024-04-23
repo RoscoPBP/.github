@@ -12,7 +12,7 @@ Each document that represents an user will have the next keys and values:
  `{"userUUID":550e8400-e29b-41d4-a716-446655440000", "base64":"AAJDSDJNDAS"}`
 
 ### Dictionaries
-To store the words we will have a different dictionary for each language. In spanish we will have "DictionaryES", the two last characters follow ISO 3166-1 alpha-2 codes. Here is an example of a document representing a word:
+To store the words we will have a different dictionary for each language. In spanish we will have "es_diccionarios", the first two characters follow ISO 3166-1 alpha-2 codes. Here is an example of a document representing a word:
 
 `{"word":"Alcachofa", "position":7, "language":"ES", "timesUsed":13}`
 
