@@ -44,6 +44,7 @@ The documents represent all games that have been played:
    "type":"multiplayer",
    "startDate":"12-12-12 14:54:22",
    "endDate":"12-12-12 14:54:22",
+   "dictionaryCode":"ES",
    "players":[
       {
          "name":"Juan Jose",
