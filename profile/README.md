@@ -41,10 +41,43 @@ The documents represent all games that have been played:
 
 ```json
 {
-   "date":"12-12-12 14:54:22",
+   "type":"multiplayer",
+   "startDate":"12-12-12 14:54:22",
+   "endDate":"12-12-12 14:54:22",
    "players":[
-      "UUID1",
-      "UUID2..."
+      {
+         "name":"Juan Jose",
+         "uuid":"550e8400-e29b-41d4-a716-446655440000",
+         "score":13
+      },
+      {
+         "name":"MariaDB",
+         "uuid":"990e8400-e29b-41d4-a716-446655456500",
+         "score":43
+      }
+   ],
+   "letters":[
+      "a",
+      "e",
+      "c",
+      "s",
+      "b",
+      "t",
+      "r"
+   ],
+   "words":[
+      {
+         "word":"tres",
+         "wordUUID":"990e8400-e29b-645jk-a716-446655456500"
+      },
+      {
+         "word":"casa",
+         "wordUUID":"534k544-e29b-645jk-a716-446655456500"
+      },
+      {
+         "word":"tarta",
+         "wordUUID":"999SSS-e29b-645jk-a716-446655456500"
+      }
    ]
 }
 ```
@@ -54,11 +87,13 @@ Here are documented all the different actions, data log.
 
 ```json
 {
-   "associated":"Entity UUID",
+   "gameUUID":"760kl9-e29b-41d4-a716-446655440000"
+   "playerUUID":"12345-e29b-41d4-a716-348538457385",
    "type":"MOVEMENT",
    "date":"12-12-12 14:54:22",
    "data":{
-      "x":"56.6"
+      "x":"56.6",
+      "y":"56.6"
    }
 }
 ```
