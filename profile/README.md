@@ -1,4 +1,8 @@
  # Wiki RoscoPBP
+ 
+![image](https://github.com/RoscoPBP/.github/assets/122391569/452039c7-18d9-49da-a17b-cd8a82c46e7f)
+## [Link to Figma App Design](https://www.figma.com/file/dJNR8Est6aV9OW9DsHLKpz/Rosc%C3%B2drom?type=design&node-id=0-1&mode=design)
+Link to the application design in Figma for a more detailed view of the design and user interface.
 
  
  ## Collections
