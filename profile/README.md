@@ -107,6 +107,17 @@ Here are documented all the different actions, data log.
 
 ## Algorithms
 
+### Values
+| Points | Letters      |
+|--------|--------------|
+| 1      | A, E, I, L, N, O, R, S, T, U |
+| 2      | D, G         |
+| 3      | B, C, M, P   |
+| 4      | Ç, F, H, V, Y |
+| 5      | K            |
+| 8      | J, X         |
+| 10     | Q, W, Z      |
+
 ### Calculate Each Word's Score Values
 
 Online:
