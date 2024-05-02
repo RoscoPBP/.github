@@ -75,15 +75,18 @@ The documents represent all games that have been played:
    "words":[
       {
          "word":"tres",
-         "wordUUID":"990e8400-e29b-645jk-a716-446655456500"
+         "wordUUID":"990e8400-e29b-645jk-a716-446655456500",
+         "playerUUID":"4234u324-e29b-645jk-a716-446655456500"
       },
       {
          "word":"casa",
-         "wordUUID":"534k544-e29b-645jk-a716-446655456500"
+         "wordUUID":"534k544-e29b-645jk-a716-446655456500",
+         "playerUUID":"4234u324-e29b-645jk-a716-446655456500"
       },
       {
          "word":"tarta",
-         "wordUUID":"999SSS-e29b-645jk-a716-446655456500"
+         "wordUUID":"999SSS-e29b-645jk-a716-446655456500",
+         "playerUUID":"4234u324-e29b-645jk-a716-446655456500"
       }
    ]
 }
